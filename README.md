@@ -1,24 +1,32 @@
-# Responsive Dark theme Headphones website
+## ⭐ Responsive Dark theme Headphones website ⭐
 
-Responsive Dark theme Headphones website using CSS & Javascript.. You can find me on the social media links below:
+⭕ **This Site is Fully Responsive**
+<br>
+<br>
+
+## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
+
+<br>
+
+## 📌 Tech Stack
+
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/prakash-naikwadi)
+<br>
+<br>
+
+## 📌 Overview
+
+<br>
 
 
-##  My Profile Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tawhidkomol.github.io/Portfolio/index.html)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawhid-komol-88a43b1a0//)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TowhidKomol/)
-[![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/towhid.komol/)
-[![facebook](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/towhid_komol/)
+## 📬 Connect With Me
 
-## Demo
+- **LinkedIn** - [OgheneTejiri Agoro](https://www.linkedin.com/in/heistejiri/)
+- **Twitter** - [@Heistejiri](https://www.twitter.com/heistejiri)
 
-Restaurant website demo: https://tawhidkomol.github.io/Headphone-website-css-javascript/index.html
+## 📌 Acknowledgments
 
-## Project Demo Screenshots
-
-![App Screenshot](https://github.com/TawhidKomol/Headphone-website-css-javascript/blob/main/assets/img/ss2.png?raw=true)
-
-![App Screenshot](https://github.com/TawhidKomol/Headphone-website-css-javascript/blob/main/assets/img/1.png?raw=true)
-
-![App Screenshot](https://github.com/TawhidKomol/Headphone-website-css-javascript/blob/main/assets/img/Full%20website%20ss%202.png?raw=true)
-
+- Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
+- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
